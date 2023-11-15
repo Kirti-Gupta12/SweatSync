@@ -1,1 +1,1 @@
-# SweatSync
+Sweat Sync
